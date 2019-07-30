@@ -1,0 +1,56 @@
+nav .container header {
+  float: none;
+  text-align: center;
+}
+
+nav .container .navbar,
+nav .container .navbar li,
+nav .container .navbar li a {
+  width: 100%;
+  float: none;
+  text-align: center;
+}
+
+nav .container .navbar li a {
+  padding: 5px;
+  border-bottom: 1px dotted #444;
+}
+
+/* Honme info */
+
+#about .image-left {
+  display: none;
+  float: none;
+}
+
+#about .article-right {
+  float: none;
+  width: 100%;
+}
+
+/* Menus */
+
+.menu-item {
+  float: none;
+  width: 100%;
+}
+
+/* About */
+#about-info .info-right,
+#about-info .info-left {
+  float: none;
+  width: 100%;
+}
+
+#about-info .info-right {
+  margin-top: 30px;
+}
+
+.l-heading {
+  text-align: center;
+}
+
+/* Contact */
+#contact-info .menu-item {
+  border-bottom: #444 dotted 1px;
+}
